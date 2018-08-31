@@ -1,2 +1,2 @@
-# sft-pet-clinic
+# sfg-pet-clinic
 Pet Clinic Project based on Spring Framework Guru Course
